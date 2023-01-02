@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://raw.githubusercontent.com/radplak/shrek/main/frames.txt") -- prerendered amongus video
+local data = game:HttpGet("https://raw.githubusercontent.com/radplak/shrek/main/frames.txtt") -- prerendered amongus video
 
 function update(text)
     local args = {
